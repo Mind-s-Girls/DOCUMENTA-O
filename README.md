@@ -1,2 +1,2 @@
 # DOCUMENTAÇÃO
-Repositórios destinado aos documentos do projeto.
+Documentação do projeto e apresentação em slides.
